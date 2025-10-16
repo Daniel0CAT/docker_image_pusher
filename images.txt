@@ -1,2 +1,2 @@
 python:alpine3.19
-vulhub/fastjson/1.2.24-rce
+vulhub/fastjson:1.2.24
